@@ -3,3 +3,4 @@ streamlit==1.40.1
 langchain
 openpyxl
 openai
+langchain_community
